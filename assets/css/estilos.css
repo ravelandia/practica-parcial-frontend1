@@ -1,0 +1,171 @@
+header .logo .Titulo {
+    display: inline-block;
+    color: #002870;
+}
+
+header .logo{
+    margin: 10px 0px 0px 40px;
+    display: inline-block;
+}
+header .lista{
+    list-style: none;
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 15px;
+    float:right;
+}
+header .lista li{
+    display: inline-block;
+    margin-right: 15px;  
+    margin-top: 20px;
+    color: #033389;
+}
+
+header .lista .Contact{
+    color: #4152f0;
+}
+header  .lista li .button{
+    background-color: #4152f0;
+    color: aliceblue;
+    border-radius: 5px;
+    border-style: none;
+}
+.sectionImg{
+    height: 650px;
+    background-color: #f3f5fa;
+}
+section .texto{
+    margin:100px 0 0 60px;
+    width: 450px;
+    display: inline-block;
+}
+
+section .texto .txtgrande{
+    font-size: 40px;
+    color: #002870;
+}
+
+section .texto p{
+    font-size: 22px;
+}
+
+section .imagenSection {
+    display: inline-block;
+    float: right;
+    margin: 50px 40px 0 0;
+}
+
+section .titulo{
+    margin-top: 70px;
+    text-align: center;
+}
+
+section ul .imagenes{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    display: inline-block;
+    border: 0.5px solid #5c5b5b11 ;
+    margin-left: 20px
+}
+
+section ul .imagenes .imagenList img{
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+}
+section ul{
+    margin: 80px;
+    list-style: none;
+}
+
+section ul .imagenesPrice{
+    width: 300px;
+    height: 700px;
+    text-align: center;
+    display: inline-block;
+    border: 0.5px solid #5c5b5b11 ;
+    margin-left: 20px
+}
+
+section ul .imagenesPrice .imagenPriceList img{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+section ul .imagenesPrice .tedtoPrice{
+    margin-top: 20px;
+}
+
+section ul .imagenesPrice h1,section ul .imagenesPrice .mo {
+    display: inline-block;
+}
+
+section ul .imagenesPrice button{
+    height: 50px;
+    width: 200px;
+    border-radius: 90px;
+    border: 2px solid #4152f0;
+    background-color: white;
+}
+
+section ul .imagenesPrice .subrayado{
+    text-decoration: line-through;
+    color: gray;
+}
+
+section ul .imagenesTeam .imagenTeamList img{
+    height: 300px;
+    width: 300px;
+}
+section ul .imagenesTeam .tedtoTeam{
+    margin-top: 20px;
+}
+
+section ul .imagenesTeam{
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    display: inline-block;
+    border: 0.5px solid #5c5b5b11 ;
+    margin-left: 20px
+}
+
+section ul .imagenesTeam .NameTeam{
+    color: #002870;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+section ul .imagenesTeam .Puesto{
+    margin-top: 5px;
+    padding-top: 0px;
+    color: gray;
+}
+section ul .imagenesTeam .Descripcion{
+    margin-top: 5px;
+    font-style: oblique;
+}
+
+footer{
+    background-color: grey;
+
+}
+
+footer .footerTitulo .Flex {
+    display: inline-block;
+    color: #002870;
+}
+
+footer .footerTitulo{
+    margin: 10px 0px 0px 40px;
+    display: inline-block;
+    width: 550px;
+}
+section .titulo .values{
+    color: #4152f0;
+}
+section .titulo .odit{
+    color: #002870;
+}
+
